@@ -457,7 +457,7 @@ function response2(tier, choice){
     win = true;
     //opening story to set the stage for the game and introduce options
     if(tier == 0){
-        document.getElementById("story").innerHTML = "55You wake up in a dimly lit dungeon. You are surrounded by your"
+        document.getElementById("story").innerHTML = "You wake up in a dimly lit dungeon. You are surrounded by your"
                         + "fellow comrades lying lifeless on the ground. All"
                         + "weapons, armor and supplies have been stripped from "
                         + "you and your team. A failed group of adventures has "
